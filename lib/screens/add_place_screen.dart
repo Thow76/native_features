@@ -3,7 +3,7 @@ import 'package:flutter/src/widgets/framework.dart';
 
 import 'package:flutter/material.dart';
 
-import 'package:flutter/material.dart';
+import '../widgets/image_input.dart';
 
 //import '../widgets/image_input.dart';
 
@@ -39,7 +39,8 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
                     SizedBox(
                       height: 10,
                     ),
-                    // ImageInput(),
+                    //Image Input Widget
+                    ImageInput(),
                   ],
                 ),
               ),

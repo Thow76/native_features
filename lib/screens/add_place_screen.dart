@@ -39,7 +39,7 @@ class _AddPlaceScreenState extends State<AddPlaceScreen> {
                     SizedBox(
                       height: 10,
                     ),
-                    //Image Input Widget
+                    //Image input widget from image_input
                     ImageInput(),
                   ],
                 ),
